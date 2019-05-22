@@ -1,8 +1,10 @@
 @extends('layouts.app')
 
 @section('content')
-
+    
     <h1>Create New Task</h1>
+    
+   
 
     <div class="row">
         <div class="col-6">
